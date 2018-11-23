@@ -1,0 +1,73 @@
+
+body
+{
+	background-image: url("Visions of Grandeur.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+
+.col2
+{
+background-color:yellow;
+height:400px;
+width:250px;
+padding :30px;
+margin: auto;
+margin-top: 100px;
+
+}
+/*.but a{
+	color: white;
+	font-size: 20px;
+	width:250px;
+	margin-top:20px;
+	 margin-left:80px; 
+	text-align: center;
+}
+
+.sign button
+{
+	color: white;
+	font-size: 20px;
+	width:250px;
+	margin-top:20px;
+	 margin-left:40px; 
+	 color:black;
+}*/
+/*element.style {
+    color: white;
+    font-size: 20px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+*/
+.btn-success a{
+	color:white;
+}
+
+.btn-primary a
+{
+	color:white;
+}
+.forgot
+{
+	margin-top: 20px;
+	color: red;
+}
+
+.carousel-inner
+{
+	width:100%;
+	height:500px;
+	background-size:cover;
+
+}
+.myCarousel
+{
+	width:300px;
+}
+
